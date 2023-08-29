@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harkarman</h1>
-<h3 align="center">A full-stack developer from India</h3>
+<h3 align="center">I'm a senior full-stack engineer from Gurgaon, India.</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently working with **Typescript**
 
 - 👨‍💻 Most of my projects are available at [https://www.harkarman.com/](https://www.harkarman.com/)
 
